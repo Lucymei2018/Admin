@@ -11,3 +11,17 @@ C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Deb
 C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function1.resources
 C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function2.resources
 C:\Users\kenny\Documents\Visual Studio 2008\WindowVB\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function3.resources
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.exe
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.xml
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.pdb
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\ResolveAssemblyReference.cache
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.AdminStart.resources
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function1.resources
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function2.resources
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function3.resources
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Resources.resources
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.vbproj.GenerateResource.Cache
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\obj\Debug\TestAdmin.Function4.resources
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\bin\Debug\TestAdmin.exe
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\bin\Debug\TestAdmin.pdb
+I:\Patrick\github_repos\Admin\TestAdmin\TestAdmin\bin\Debug\TestAdmin.xml

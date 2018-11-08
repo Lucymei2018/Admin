@@ -31,4 +31,13 @@
     End Sub
 
    
+    Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
+        Try
+
+            Dim frm As New Function4
+            frm.ShowDialog()
+        Catch ex As Exception
+            MsgBox(Err.Description)
+        End Try
+    End Sub
 End Class

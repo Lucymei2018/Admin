@@ -73,6 +73,12 @@
       <DependentUpon>AdminStart.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Function4.Designer.vb">
+      <DependentUpon>Function4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Function4.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Function1.Designer.vb">
       <DependentUpon>Function1.vb</DependentUpon>
     </Compile>
@@ -110,6 +116,9 @@
   <ItemGroup>
     <EmbeddedResource Include="AdminStart.resx">
       <DependentUpon>AdminStart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Function4.resx">
+      <DependentUpon>Function4.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Function1.resx">
       <DependentUpon>Function1.vb</DependentUpon>
